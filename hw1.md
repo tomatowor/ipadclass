@@ -1,5 +1,6 @@
 <h1>HW1</h1>
-```swift
+```
+swift
 import SwiftUI
 
 struct ContentView: View {
@@ -77,3 +78,5 @@ struct ContentView: View {
     }
 }
 ```
+
+<img src="https://raw.githubusercontent.com/tomatowor/ipadclass/main/jw1screen.png">
