@@ -147,3 +147,4 @@ extension UIScreen{
 
 
 ```
+<img src="https://raw.githubusercontent.com/tomatowor/ipadclass/main/hw2screen.jpg">
