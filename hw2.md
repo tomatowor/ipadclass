@@ -59,4 +59,4 @@ struct ContentView: View{
 
 ```
 
-<img src="https://raw.githubusercontent.com/tomatowor/ipadclass/main/hw2screen.jpg">
+<img src="https://raw.githubusercontent.com/tomatowor/ipadclass/main/720909355.515452.gif">
